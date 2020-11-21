@@ -12,7 +12,7 @@
      "48": "icon-48.png",
      "128": "icon-128.png" },
  "permissions": [
-     "activeTab",
+     "activeTab"
  ],
  "version": "0.1",
  "manifest_version": 2
